@@ -1,0 +1,9 @@
+[submodule "WiringPi"]
+	path = WiringPi
+	url = https://github.com/WiringPi/WiringPi.git
+[submodule "GPIO/WiringPi"]
+	path = GPIO/WiringPi
+	url = https://github.com/WiringPi/WiringPi.git
+[submodule "GPIO/WiringPi-Python"]
+	path = GPIO/WiringPi-Python
+	url = https://github.com/WiringPi/WiringPi-Python.git
